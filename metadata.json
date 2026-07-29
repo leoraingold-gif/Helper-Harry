@@ -1,0 +1,6 @@
+{
+  "name": "Aetheria Architecture Portfolio",
+  "description": "Futuristic architecture portfolio with living 3D wireframe models, modular project grid, immersive split details, studio timeline, and scroll trail micro-interactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
